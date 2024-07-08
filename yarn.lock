@@ -5895,12 +5895,12 @@ import-local@^3.0.2:
     pkg-dir "^4.2.0"
     resolve-cwd "^3.0.0"
 
-imports-loader@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.npmjs.org/imports-loader/-/imports-loader-3.1.1.tgz"
-  integrity sha512-3QMyGU4RTgxLf0puWkUfT5+7zJvexvB00PI5skDIcxG8O20gZCbQsaRpNBv+cIO6yy/lmlOBwaxc3uH1CV+sww==
+imports-loader@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/imports-loader/-/imports-loader-5.0.0.tgz#b18635fd7fe28001518a1f54f30cd1dfbd3c5f38"
+  integrity sha512-tXgL8xxZFjOjQLLiE7my00UUQfktg4G8fdpXcZphL0bJWbk9eCxKKFaCwmFRcwyRJQl95GXBL1DoE1rCS/tcPw==
   dependencies:
-    source-map "^0.6.1"
+    source-map-js "^1.0.2"
     strip-comments "^2.0.1"
 
 imurmurhash@^0.1.4:
@@ -10583,7 +10583,7 @@ sort-object@^0.3.2:
     sort-asc "^0.1.0"
     sort-desc "^0.1.1"
 
-"source-map-js@>=0.6.2 <2.0.0", source-map-js@^1.0.1, source-map-js@^1.2.0:
+"source-map-js@>=0.6.2 <2.0.0", source-map-js@^1.0.1, source-map-js@^1.0.2, source-map-js@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.0.tgz#16b809c162517b5b8c3e7dcd315a2a5c2612b2af"
   integrity sha512-itJW8lvSA0TXEphiRoawsCksnlf8SyvmFzIhltqAHluXd88pkCd+cXJVHTDwdCr0IzwptSm035IHQktUu1QUMg==
