@@ -24,7 +24,7 @@
   "devDependencies": {
     "@babel/core": "^7.24.7",
     "@babel/eslint-parser": "^7.23.10",
-    "@babel/preset-env": "^7.23.9",
+    "@babel/preset-env": "^7.24.8",
     "@babel/register": "^7.24.6",
     "assets-webpack-plugin": "^7.1.1",
     "autoprefixer": "^10.4.19",
