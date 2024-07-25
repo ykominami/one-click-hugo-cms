@@ -46,7 +46,7 @@
     "postcss": "^8.4.31",
     "postcss-custom-media": "^10.0.8",
     "postcss-import": "^16.1.0",
-    "postcss-loader": "^7.3.3",
+    "postcss-loader": "^8.1.1",
     "postcss-preset-env": "^9.6.0",
     "sass": "^1.77.6",
     "sass-loader": "^14.2.1",
