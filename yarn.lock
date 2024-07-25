@@ -8874,13 +8874,6 @@ postcss-custom-media@^10.0.8:
     "@csstools/css-tokenizer" "^2.4.1"
     "@csstools/media-query-list-parser" "^2.1.13"
 
-postcss-custom-media@^8.0.2:
-  version "8.0.2"
-  resolved "https://registry.npmjs.org/postcss-custom-media/-/postcss-custom-media-8.0.2.tgz"
-  integrity sha512-7yi25vDAoHAkbhAzX9dHx2yc6ntS4jQvejrNcC+csQJAXjj15e7VcWfMgLqBNAbOvqi5uIa9huOVwdHbf+sKqg==
-  dependencies:
-    postcss-value-parser "^4.2.0"
-
 postcss-custom-properties@^13.3.12:
   version "13.3.12"
   resolved "https://registry.yarnpkg.com/postcss-custom-properties/-/postcss-custom-properties-13.3.12.tgz#e21960c7d13aed960b28236412d4da67f75317b0"
