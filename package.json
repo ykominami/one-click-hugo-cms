@@ -24,7 +24,7 @@
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/eslint-parser": "^7.23.10",
-    "@babel/preset-env": "^7.25.0",
+    "@babel/preset-env": "^7.25.3",
     "@babel/register": "^7.24.6",
     "assets-webpack-plugin": "^7.1.1",
     "autoprefixer": "^10.4.20",
@@ -44,7 +44,7 @@
     "mini-css-extract-plugin": "^2.9.0",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.31",
-    "postcss-custom-media": "^10.0.8",
+    "postcss-custom-media": "^11.0.1",
     "postcss-import": "^16.1.0",
     "postcss-loader": "^8.1.1",
     "postcss-preset-env": "^9.6.0",
@@ -67,7 +67,7 @@
   },
   "dependencies": {
     "@babel/preset-react": "^7.24.7",
-    "cypress": "^13.13.2",
+    "cypress": "^13.13.3",
     "date-fns": "^3.6.0",
     "immutable": "^4.3.7",
     "netlify-cms-app": "^2.15.72",
