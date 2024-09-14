@@ -4029,10 +4029,10 @@ csscolorparser@~1.0.2:
   resolved "https://registry.npmjs.org/csscolorparser/-/csscolorparser-1.0.3.tgz"
   integrity sha512-umPSgYwZkdFoUrH5hIq5kf0wPSXiro51nPw0j2K/c83KflkPSTBGMz6NJvMB+07VlL0y7VPo6QJcDjcgKTTm3w==
 
-cssdb@^8.1.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/cssdb/-/cssdb-8.1.0.tgz#ad25cac6ac0dbc4f23693e09baa65cdd3ef7160a"
-  integrity sha512-BQN57lfS4dYt2iL0LgyrlDbefZKEtUyrO8rbzrbGrqBk6OoyNTQLF+porY9DrpDBjLo4NEvj2IJttC7vf3x+Ew==
+cssdb@^8.1.1:
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/cssdb/-/cssdb-8.1.1.tgz#bb3ea0038a471c61fc89c56d11d168d62fac7829"
+  integrity sha512-kRbSRgZoxtZNl5snb3nOzBkFOt5AwnephcUTIEFc2DebKG9PN50/cHarlwOooTxYQ/gxsnKs3BxykhNLmfvyLg==
 
 cssesc@^3.0.0:
   version "3.0.0"
@@ -6048,10 +6048,10 @@ https-proxy-agent@5.0.1, https-proxy-agent@^5.0.0:
     agent-base "6"
     debug "4"
 
-hugo-bin@^0.130.1:
-  version "0.130.1"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.130.1.tgz#96c68452003e1d41720d9a096a6cf4f553b7f014"
-  integrity sha512-0+GwMlYkTdmH2INIWPeoKf+Rx/+RbTCZNPhcdPwm4a+WJeuvGjOLOmK3grAk5vC2u4OwxfOhgD3zRU7wHVYxlw==
+hugo-bin@^0.131.1:
+  version "0.131.1"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.131.1.tgz#a3729b32305eb081e79f898509f5e4db990d7e48"
+  integrity sha512-bfUFKhQ6felvBNng06vwimNuvV+88yYwU6xTuAoTmtdY0g13Z03pf9rrg3AualxpMOu+dV/Yl/n90EvutKPzIQ==
   dependencies:
     "@xhmikosr/bin-wrapper" "^13.0.5"
     package-config "^5.0.0"
@@ -9133,10 +9133,10 @@ postcss-normalize-whitespace@^7.0.0:
   dependencies:
     postcss-value-parser "^4.2.0"
 
-postcss-opacity-percentage@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/postcss-opacity-percentage/-/postcss-opacity-percentage-2.0.0.tgz#c0a56060cd4586e3f954dbde1efffc2deed53002"
-  integrity sha512-lyDrCOtntq5Y1JZpBFzIWm2wG9kbEdujpNt4NLannF+J9c8CgFIzPa80YQfdza+Y+yFfzbYj/rfoOsYsooUWTQ==
+postcss-opacity-percentage@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/postcss-opacity-percentage/-/postcss-opacity-percentage-3.0.0.tgz#0b0db5ed5db5670e067044b8030b89c216e1eb0a"
+  integrity sha512-K6HGVzyxUxd/VgZdX04DCtdwWJ4NGLG212US4/LA1TLAbHgmAsTWVR86o+gGIbFtnTkfOpb9sCRBx8K7HO66qQ==
 
 postcss-ordered-values@^7.0.0:
   version "7.0.0"
@@ -9165,10 +9165,10 @@ postcss-place@^10.0.0:
   dependencies:
     postcss-value-parser "^4.2.0"
 
-postcss-preset-env@^10.0.2:
-  version "10.0.2"
-  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-10.0.2.tgz#fb0a2e15eb06dbea4d8bf1945c177e8aa5953550"
-  integrity sha512-PMxqnz0RQYMUmUi6p4P7BhC9EVGyEUCIdwn4vJ7Fy1jvc2QP4mMH75BSBB1mBFqjl3x4xYwyCNMhGZ8y0+/qOA==
+postcss-preset-env@^10.0.3:
+  version "10.0.3"
+  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-10.0.3.tgz#e634f5d402521a66c61526c70bf265d331c4a183"
+  integrity sha512-1nrZ4IeBXEEj53IMoRKE+k/Ub6nQb3gFjaxTeyUNG5zv3JQclFDY5GKKhAi3nsa1lnPMWgzQX+/1y6wUt2+I7Q==
   dependencies:
     "@csstools/postcss-cascade-layers" "^5.0.0"
     "@csstools/postcss-color-function" "^4.0.2"
@@ -9205,7 +9205,7 @@ postcss-preset-env@^10.0.2:
     css-blank-pseudo "^7.0.0"
     css-has-pseudo "^7.0.0"
     css-prefers-color-scheme "^10.0.0"
-    cssdb "^8.1.0"
+    cssdb "^8.1.1"
     postcss-attribute-case-insensitive "^7.0.0"
     postcss-clamp "^4.1.0"
     postcss-color-functional-notation "^7.0.2"
@@ -9224,7 +9224,7 @@ postcss-preset-env@^10.0.2:
     postcss-lab-function "^7.0.2"
     postcss-logical "^8.0.0"
     postcss-nesting "^13.0.0"
-    postcss-opacity-percentage "^2.0.0"
+    postcss-opacity-percentage "^3.0.0"
     postcss-overflow-shorthand "^6.0.0"
     postcss-page-break "^3.0.4"
     postcss-place "^10.0.0"
@@ -9302,10 +9302,10 @@ postcss-value-parser@^4.0.0, postcss-value-parser@^4.1.0, postcss-value-parser@^
   resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz#723c09920836ba6d3e5af019f92bc0971c02e514"
   integrity sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==
 
-postcss@^8.4.33, postcss@^8.4.38, postcss@^8.4.44:
-  version "8.4.44"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.44.tgz#d56834ef6508610ba224bb22b2457b2169ed0480"
-  integrity sha512-Aweb9unOEpQ3ezu4Q00DPvvM2ZTUitJdNKeP/+uQgr1IBIqu574IaZoURId7BKtWMREwzKa9OgzPzezWGPWFQw==
+postcss@^8.4.33, postcss@^8.4.38, postcss@^8.4.45:
+  version "8.4.45"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.45.tgz#538d13d89a16ef71edbf75d895284ae06b79e603"
+  integrity sha512-7KTLTdzdZZYscUc65XmjFiB73vBhBfbPztCYdUNvlaso9PrzjzcmjqBPR0lNGkcVlcO4BjiO5rK/qNz+XAen1Q==
   dependencies:
     nanoid "^3.3.7"
     picocolors "^1.0.1"
