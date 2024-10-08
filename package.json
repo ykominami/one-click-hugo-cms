@@ -25,7 +25,7 @@
     "@babel/core": "^7.25.7",
     "@babel/eslint-parser": "^7.25.1",
     "@babel/preset-env": "^7.25.4",
-    "@babel/register": "^7.24.6",
+    "@babel/register": "^7.25.7",
     "assets-webpack-plugin": "^7.1.1",
     "autoprefixer": "^10.4.20",
     "babel-loader": "^9.2.1",
