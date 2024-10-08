@@ -22,10 +22,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.25.2",
+    "@babel/core": "^7.25.7",
     "@babel/eslint-parser": "^7.25.1",
     "@babel/preset-env": "^7.25.4",
-    "@babel/register": "^7.24.6",
+    "@babel/register": "^7.25.7",
     "assets-webpack-plugin": "^7.1.1",
     "autoprefixer": "^10.4.20",
     "babel-loader": "^9.2.1",
@@ -35,7 +35,7 @@
     "css-loader": "^7.1.2",
     "css-minimizer-webpack-plugin": "^7.0.0",
     "eslint": "^8.57.1",
-    "eslint-plugin-import": "^2.30.0",
+    "eslint-plugin-import": "^2.31.0",
     "exports-loader": "^5.0.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.6.0",
@@ -66,7 +66,7 @@
     "got": "14.4.2"
   },
   "dependencies": {
-    "@babel/preset-react": "^7.24.7",
+    "@babel/preset-react": "^7.25.7",
     "cypress": "^13.15.0",
     "date-fns": "^4.1.0",
     "immutable": "^4.3.7",
