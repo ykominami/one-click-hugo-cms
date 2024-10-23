@@ -6032,10 +6032,10 @@ https-proxy-agent@5.0.1, https-proxy-agent@^5.0.0:
     agent-base "6"
     debug "4"
 
-hugo-bin@^0.132.0:
-  version "0.132.0"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.132.0.tgz#379bd24137e41da6906669f15e7d158bf77a71a1"
-  integrity sha512-P8Bjl2ussOFzDJVppZfjxuyRegklKnlz2ILeFUszwkq9aDab8il0IJgr6pNxI0bbPIbLcoV64FmStyB1vXsynQ==
+hugo-bin@^0.133.2:
+  version "0.133.2"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.133.2.tgz#0e554c1df0fc8cf691c6c68218bf2ff4a0f4c302"
+  integrity sha512-qh7b+2/9fGNYAn6ISV2qBXRf7HmlYQlQozJ7ZZd1P6R7e83s4X/Pulg8oKrsdE+7qC4uNC7iHdn0a/5LmZYfrw==
   dependencies:
     "@xhmikosr/bin-wrapper" "^13.0.5"
     package-config "^5.0.0"
