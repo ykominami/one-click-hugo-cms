@@ -69,7 +69,7 @@
     "@babel/preset-react": "^7.25.9",
     "cypress": "^13.15.1",
     "date-fns": "^4.1.0",
-    "immutable": "^4.3.7",
+    "immutable": "^5.0.3",
     "netlify-cms-app": "^2.15.72",
     "netlify-plugin-cypress": "^2.2.1",
     "react": "^17.0.2",
