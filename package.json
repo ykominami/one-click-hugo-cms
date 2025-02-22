@@ -63,7 +63,7 @@
     "trim": "1.0.1",
     "@cypress/request": "3.0.7",
     "tough-cookie": "5.0.0",
-    "got": "14.4.5"
+    "got": "14.4.6"
   },
   "dependencies": {
     "@babel/preset-react": "^7.26.3",
