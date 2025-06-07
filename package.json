@@ -49,7 +49,7 @@
     "postcss-loader": "^8.1.1",
     "postcss-preset-env": "^10.1.4",
     "sass": "^1.83.0",
-    "sass-loader": "^16.0.2",
+    "sass-loader": "^16.0.5",
     "style-loader": "^4.0.0",
     "terser-webpack-plugin": "^5.2.5",
     "webpack": "^5.96.1",
@@ -62,8 +62,8 @@
     "semver-regex": "4.0.5",
     "trim": "1.0.1",
     "@cypress/request": "3.0.7",
-    "tough-cookie": "5.0.0",
-    "got": "14.4.7"
+    "tough-cookie": "5.1.2",
+    "got": "14.4.6"
   },
   "dependencies": {
     "@babel/preset-react": "^7.26.3",
