@@ -54,16 +54,16 @@
     "terser-webpack-plugin": "^5.2.5",
     "webpack": "^5.96.1",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^5.2.0",
+    "webpack-dev-server": "^5.2.1",
     "webpack-merge": "^6.0.1",
     "@koa/cors": "5.0.0",
-    "http-cache-semantics": "4.1.1",
+    "http-cache-semantics": "4.2.0",
     "json5": "2.2.3",
     "semver-regex": "4.0.5",
     "trim": "1.0.1",
     "@cypress/request": "3.0.7",
     "tough-cookie": "5.1.2",
-    "got": "14.4.6"
+    "got": "14.4.7"
   },
   "dependencies": {
     "@babel/preset-react": "^7.26.3",
