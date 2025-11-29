@@ -24,7 +24,7 @@
   "devDependencies": {
     "@babel/core": "^7.28.5",
     "@babel/eslint-parser": "^7.28.4",
-    "@babel/preset-env": "^7.27.2",
+    "@babel/preset-env": "^7.28.5",
     "@babel/register": "^7.27.1",
     "assets-webpack-plugin": "^7.1.1",
     "autoprefixer": "^10.4.20",
@@ -62,7 +62,7 @@
     "semver-regex": "4.0.5",
     "trim": "1.0.1",
     "@cypress/request": "3.0.9",
-    "tough-cookie": "5.1.2",
+    "tough-cookie": "6.0.0",
     "got": "14.4.9"
   },
   "dependencies": {
