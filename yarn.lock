@@ -867,10 +867,10 @@
     "@babel/plugin-transform-react-jsx-development" "^7.27.1"
     "@babel/plugin-transform-react-pure-annotations" "^7.27.1"
 
-"@babel/register@^7.27.1":
-  version "7.27.1"
-  resolved "https://registry.yarnpkg.com/@babel/register/-/register-7.27.1.tgz#ea4d701649d788d7cb8a064b7540fd21083147f1"
-  integrity sha512-K13lQpoV54LATKkzBpBAEu1GGSIRzxR9f4IN4V8DCDgiUMo2UDGagEZr3lPeVNJPLkWUi5JE4hCHKneVTwQlYQ==
+"@babel/register@^7.28.3":
+  version "7.28.3"
+  resolved "https://registry.yarnpkg.com/@babel/register/-/register-7.28.3.tgz#abd8a3753480c799bdaf9c9092d6745d16e052c2"
+  integrity sha512-CieDOtd8u208eI49bYl4z1J22ySFw87IGwE+IswFEExH7e3rLgKb0WNQeumnacQ1+VoDJLYI5QFA3AJZuyZQfA==
   dependencies:
     clone-deep "^4.0.1"
     find-cache-dir "^2.0.0"
@@ -11987,12 +11987,24 @@ tldts-core@^6.1.48:
   resolved "https://registry.yarnpkg.com/tldts-core/-/tldts-core-6.1.48.tgz#efa7dc689b9757d1d4326b787cd992f10a16b2fb"
   integrity sha512-3gD9iKn/n2UuFH1uilBviK9gvTNT6iYwdqrj1Vr5mh8FuelvpRNaYVH4pNYqUgOGU4aAdL9X35eLuuj0gRsx+A==
 
+tldts-core@^7.0.17:
+  version "7.0.17"
+  resolved "https://registry.yarnpkg.com/tldts-core/-/tldts-core-7.0.17.tgz#dadfee3750dd272ed219d7367beb7cbb2ff29eb8"
+  integrity sha512-DieYoGrP78PWKsrXr8MZwtQ7GLCUeLxihtjC1jZsW1DnvSMdKPitJSe8OSYDM2u5H6g3kWJZpePqkp43TfLh0g==
+
 tldts@^6.1.32:
   version "6.1.48"
   resolved "https://registry.yarnpkg.com/tldts/-/tldts-6.1.48.tgz#bfef97f407fe73f1a88db8e0f6905378e9a348c0"
   integrity sha512-SPbnh1zaSzi/OsmHb1vrPNnYuwJbdWjwo5TbBYYMlTtH3/1DSb41t8bcSxkwDmmbG2q6VLPVvQc7Yf23T+1EEw==
   dependencies:
     tldts-core "^6.1.48"
+
+tldts@^7.0.5:
+  version "7.0.17"
+  resolved "https://registry.yarnpkg.com/tldts/-/tldts-7.0.17.tgz#a6cdc067b9e80ea05f3be471c0ea410688cc78b2"
+  integrity sha512-Y1KQBgDd/NUc+LfOtKS6mNsC9CCaH+m2P1RoIZy7RAPo3C3/t8X45+zgut31cRZtZ3xKPjfn3TkGTrctC2TQIQ==
+  dependencies:
+    tldts-core "^7.0.17"
 
 tmp@~0.2.3:
   version "0.2.5"
@@ -12041,7 +12053,14 @@ topbar@^0.1.3:
   resolved "https://registry.npmjs.org/topbar/-/topbar-0.1.4.tgz"
   integrity sha512-P3n4WnN4GFd2mQXDo30rQmsAGe4V1bVkggtTreSbNyL50Fyc+eVkW5oatSLeGQmJoan2TLIgoXUZypN+6nw4MQ==
 
-tough-cookie@5.1.2, tough-cookie@^5.0.0:
+tough-cookie@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-6.0.0.tgz#11e418b7864a2c0d874702bc8ce0f011261940e5"
+  integrity sha512-kXuRi1mtaKMrsLUxz3sQYvVl37B0Ns6MzfrtV5DvJceE9bPyspOqk9xxv7XbZWcfLWbFmm997vl83qUWVJA64w==
+  dependencies:
+    tldts "^7.0.5"
+
+tough-cookie@^5.0.0:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-5.1.2.tgz#66d774b4a1d9e12dc75089725af3ac75ec31bed7"
   integrity sha512-FVDYdxtnj0G6Qm/DhNPSb8Ju59ULcup3tuJxkFb5K8Bv2pUXILbf0xZWU8PX8Ov19OXljbUyveOFwRMwkXzO+A==

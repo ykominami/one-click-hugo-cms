@@ -62,7 +62,7 @@
     "semver-regex": "4.0.5",
     "trim": "1.0.1",
     "@cypress/request": "3.0.9",
-    "tough-cookie": "5.1.2",
+    "tough-cookie": "6.0.0",
     "got": "14.4.9"
   },
   "dependencies": {
