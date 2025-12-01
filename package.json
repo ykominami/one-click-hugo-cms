@@ -27,7 +27,7 @@
     "@babel/preset-env": "^7.28.5",
     "@babel/register": "^7.27.1",
     "assets-webpack-plugin": "^7.1.1",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.22",
     "babel-loader": "^10.0.0",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^13.0.1",
