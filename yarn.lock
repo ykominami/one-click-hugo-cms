@@ -6415,10 +6415,10 @@ immutable@^3.7.6:
   resolved "https://registry.npmjs.org/immutable/-/immutable-3.8.2.tgz"
   integrity sha512-15gZoQ38eYjEjxkorfbcgBKBL6R7T459OuK+CpcWt7O3KF4uPCx2tD0uFETlUDIyo+1789crbMhTvQBSR5yBMg==
 
-immutable@^5.0.2, immutable@^5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-5.0.3.tgz#aa037e2313ea7b5d400cd9298fa14e404c933db1"
-  integrity sha512-P8IdPQHq3lA1xVeBRi5VPqUm5HDgKnx0Ru51wZz5mjxHr5n3RWhjIpOFU7ybkUxfB+5IToy+OLaHYDBIWsv+uw==
+immutable@^5.0.2, immutable@^5.1.4:
+  version "5.1.4"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-5.1.4.tgz#e3f8c1fe7b567d56cf26698f31918c241dae8c1f"
+  integrity sha512-p6u1bG3YSnINT5RQmx/yRZBpenIl30kVxkTLDyHLIMk0gict704Q9n+thfDI7lTRm9vXdDYutVzXhzcThxTnXA==
 
 import-fresh@^3.1.0, import-fresh@^3.2.1, import-fresh@^3.3.0:
   version "3.3.0"
