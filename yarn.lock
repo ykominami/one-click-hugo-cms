@@ -4361,10 +4361,10 @@ css-has-pseudo@^8.0.0:
     postcss-selector-parser "^7.1.1"
     postcss-value-parser "^4.2.0"
 
-css-loader@^7.1.4:
-  version "7.1.4"
-  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.4.tgz#8f6bf9f8fc8cbef7d2ef6e80acc6545eaefa90b1"
-  integrity sha512-vv3J9tlOl04WjiMvHQI/9tmIrCxVrj6PFbHemBB1iihpeRbi/I4h033eoFIhwxBBqLhI0KYFS7yvynBFhIZfTw==
+css-loader@^7.1.5:
+  version "7.1.5"
+  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.5.tgz#5f6a61c1e528c2dfcc9cbfa1e044e9061c99efce"
+  integrity sha512-Q7iAfQkU2twNBryKX/vGAlE+GAmkF7quhSzAGNK8fBimxk3+tqg245rH52UPb9dioBolBc8rP0ihmHBaDTJQBA==
   dependencies:
     icss-utils "^5.1.0"
     postcss "^8.4.40"
@@ -6311,18 +6311,16 @@ got@10.7.0:
     to-readable-stream "^2.0.0"
     type-fest "^0.10.0"
 
-got@15.1.0:
-  version "15.1.0"
-  resolved "https://registry.yarnpkg.com/got/-/got-15.1.0.tgz#6e1a3673b4d9ecf46d5223909d8523c82162f8a5"
-  integrity sha512-DG+DAAkRtno+oDr/GBsliAkhN9+zczOPM5qXk3efDZY3qvyRnZU+NwQlb/IOY6cSnxxTR9z3aHCcShJyjb0hJA==
+got@16.0.0:
+  version "16.0.0"
+  resolved "https://registry.yarnpkg.com/got/-/got-16.0.0.tgz#d0bf603fe50e684a6425b589e3efd3b2e2844134"
+  integrity sha512-UtzSUebtRHHAUaNB/X37X1LQgHvdSrgXUIWGUBDhLu05CYtUr9svjeN6wmG333nzdJASFUjXMOuRBjZLf8oF1w==
   dependencies:
     "@sindresorhus/is" "^8.0.0"
     byte-counter "^0.1.0"
-    cacheable-lookup "^7.0.0"
     cacheable-request "^13.0.18"
     chunk-data "^0.1.0"
     decompress-response "^10.0.0"
-    http2-wrapper "^2.2.1"
     keyv "^5.6.0"
     lowercase-keys "^4.0.1"
     responselike "^4.0.2"
@@ -6757,7 +6755,7 @@ http-signature@~1.4.0:
     jsprim "^2.0.2"
     sshpk "^1.18.0"
 
-http2-wrapper@^2.1.10, http2-wrapper@^2.2.1:
+http2-wrapper@^2.1.10:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/http2-wrapper/-/http2-wrapper-2.2.1.tgz#310968153dcdedb160d8b72114363ef5fce1f64a"
   integrity sha512-V5nVw1PAOgfI3Lmeaj2Exmeg7fenjhRUgz1lPSezy1CuhPYbgQtbQj4jZfEAEMlaL+vupsvhjqCyjzob0yxsmQ==
@@ -12481,10 +12479,10 @@ teeny-tap@^0.2.0:
   resolved "https://registry.npmjs.org/teeny-tap/-/teeny-tap-0.2.0.tgz"
   integrity sha512-HnA3I2sxRQe/SZgQTQgQvvA17DhfzhBJ1LfSOXZ5VUTbxGLvnAqUef84ZGNNSEbk1ZMEIDeghTHZagJ7LifAgg==
 
-terser-webpack-plugin@^5.3.17, terser-webpack-plugin@^5.6.0:
-  version "5.6.0"
-  resolved "https://registry.yarnpkg.com/terser-webpack-plugin/-/terser-webpack-plugin-5.6.0.tgz#8e7caad248183ab9e91ff08a83b0fc9f0439c3c3"
-  integrity sha512-Eum+5ajkaOhf5KbM26osvv21kLD7BaGqQ1UA4Ami4arYwylmGUQTgHFpHDdmJod1q4QXa66p0to/FBKID+J1vA==
+terser-webpack-plugin@^5.3.17, terser-webpack-plugin@^5.6.1:
+  version "5.6.1"
+  resolved "https://registry.yarnpkg.com/terser-webpack-plugin/-/terser-webpack-plugin-5.6.1.tgz#47bc41bd8b8fab8383b62ec763b7394829097e7b"
+  integrity sha512-201R5j+sJpK8nFWwKVyNfZot8FaJbLZDq5evriVzbV1wDtSXDjRUDRfJzHpAaxFDMEhsZL1QkeqM61wgsS3KaQ==
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.25"
     jest-worker "^27.4.5"
